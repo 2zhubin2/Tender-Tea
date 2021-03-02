@@ -1,2 +1,3 @@
 # Tender-Tea
 "Tender Tea"technical support
+"Tender Tea" is an app for selling tea. Its main function is to sell tea. In this app, a large number of tea products are provided, such as green tea, yellow tea, black tea, green tea, black tea, white tea and so on. It is convenient for users to quickly find the tea they need. Users can add the products to the shopping cart for batch operation, or directly click the product to place an order. Finally, we will also push some articles about making and drinking tea, so that tea lovers can understand tea better…For any comments and suggestions, please contact us:“TenderTea” official email:huayixianke@163.com
